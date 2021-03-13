@@ -1,0 +1,73 @@
+size 
+top 
+empty 
+size 
+empty
+671 push 
+-641 push 
+pop 
+peek 
+top 
+empty 
+dequeue 
+push -152 
+pop 
+peek 
+peek 
+size 
+top 
+top 
+push -303 
+empty 
+size 
+enqueue -519 
+peek 
+top 
+empty 
+enqueue -83 
+top 
+peek 
+push 160 
+enqueue 687 
+enqueue 358 
+push 31 
+enqueue -102 
+peek
+enqueue -323 
+push -629 
+top 
+empty 
+size 
+empty 
+dequeue 
+size 
+enqueue 70 
+empty 
+push -79 
+pop 
+enqueue -870 
+size 
+empty 
+top 
+empty 
+size 
+top 
+empty 
+pop 
+pop 
+dequeue 
+push 794 
+push -766 
+push -849 
+top 
+size 
+top 
+enqueue 436
+empty 
+push 377 
+pop 
+size 
+enqueue 911 
+pop 
+pop 
+dequeue
