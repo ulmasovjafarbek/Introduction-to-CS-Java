@@ -1,4 +1,4 @@
-/**PROBLEM DESCRIPTION: Given a sorted array of Comparable items, write function ceiling() that return theindex of the smallest item not smaller than an argument item in logarithmic timein the main function, take a standard input as an array, take a command-lineargument as the target, print the ceiling if there is no ceiling in the array.Otherwise, print no ceiling.
+/**PROBLEM DESCRIPTION: Given a sorted array of Comparable items, write function ceiling() that return the index of the smallest item, not smaller than an argument item in logarithmic time in the main function, take a standard input as an array, take a command-lineargument as the target, print the ceiling if there is no ceiling in the array. Otherwise, print no ceiling.
  * 
  * EXAMPLE:
  * Input: 7 12 21 25 32 37 47 51 52 60 60 68 69 76 79
